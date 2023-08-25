@@ -32,6 +32,11 @@ Riverpod 2.0を使用。[公式ドキュメンテーション](https://docs-v2.r
     - Maps SDK for iOS
 - Slack API
 
+Cloud Functionsの実装はTypeScriptを用いました。（このレポジトリにはあげていません）
+ほかにも、アプリ内で表示するお店の管理のためのmacOSアプリも作成しました。
+
+また、デザインやアプリ内で利用した画像はSketchでつくりました。ロゴはスクラッチを知人にいただき、それをもとに作成しました。
+
 ## アーキテクチャ
 DDDベースの考え方で([参考](https://codewithandrea.com/articles/flutter-project-structure/))、4つのレイヤーに分けています。
 - Presentation Layer
